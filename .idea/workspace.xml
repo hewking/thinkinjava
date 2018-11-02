@@ -2,78 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/SortStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$Coumser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ValuePassTest$A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ValuePassTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo$PrintRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/androidres/ConvertiOS2Android$convert$method$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/androidres/ConvertiOS2Android.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/com/opechain/wallet/SortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/AESUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/MD5Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/PassUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/RSAEncrypt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/RSAUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/StringUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/AESUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Base64Coder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Base64Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/RSA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/RSAUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Spm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/UserInvocationHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/impl/MyUserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericA$GeneericB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/GetUTCTimeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$CallBack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/MD5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/OkexTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/SymbolTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/proxy/SocksServerOneThread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/proxy/SocksServerOneThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil$UserWarper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil$Wraper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/ContainsSubStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/EncodeGBKTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/MaxStrSubValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/StatisticWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/FileUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/TimeUtils.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,26 +19,60 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+            <state relative-caret-position="347">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatisticWords.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/StatisticWords.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EncodeGBKTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/EncodeGBKTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxStrSubValue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/MaxStrSubValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortStr.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/SortStr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding>
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collections.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/Collections.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="130" column="74" selection-start-line="130" selection-start-column="74" selection-end-line="130" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -146,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/generics/GenericArray.java" />
         <option value="$PROJECT_DIR$/src/generics/Demo.java" />
         <option value="$PROJECT_DIR$/src/rsa/MD5Utils.java" />
         <option value="$PROJECT_DIR$/src/rsa/PassUtils.java" />
@@ -197,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/demo/Circle.java" />
         <option value="$PROJECT_DIR$/src/demo/Test.java" />
         <option value="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" />
+        <option value="$PROJECT_DIR$/src/string/SortStr.java" />
       </list>
     </option>
   </component>
@@ -222,6 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -233,43 +198,44 @@
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin-stdlib.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin-stdlib.jar" type="ab9368bb:PsiFileNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin-stdlib.jar" type="ab9368bb:PsiFileNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hewking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hewking" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hewking" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -308,17 +274,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeadLockDemo" />
-      <module name="thinkinjava" />
-    </configuration>
+  <component name="RunManager" selected="Application.SortStr">
     <configuration name="GenericA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generics.GenericA" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SortStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.SortStr" />
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,19 +341,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.DeadLockDemo" />
       <item itemvalue="Application.GenericA" />
       <item itemvalue="Kotlin.string.StatisticWords" />
       <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.SortStr" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortStr" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
         <item itemvalue="Kotlin.string.StatisticWords" />
         <item itemvalue="Application.GenericA" />
-        <item itemvalue="Application.DeadLockDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -423,12 +395,22 @@
       <workItem from="1536990716910" duration="1262000" />
       <workItem from="1537102424711" duration="1360000" />
       <workItem from="1538147983941" duration="193000" />
-      <workItem from="1539533957885" duration="2979000" />
+      <workItem from="1539533957885" duration="3409000" />
+      <workItem from="1539880807525" duration="53000" />
+      <workItem from="1541170528222" duration="838000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1539537153314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539537153315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32596000" />
+    <option name="totallyTimeSpent" value="33917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -438,12 +420,12 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40518135" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3282123" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32919255" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3282123" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23153692" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23652695" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -455,8 +437,8 @@
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.16126943" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3277311" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3277311" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,6 +452,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -612,34 +598,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/utils/TimeUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5425">
-          <caret line="223" column="24" lean-forward="true" selection-start-line="223" selection-start-column="24" selection-end-line="223" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/SortTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/FileUtils.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/TimeConverterUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2550">
-          <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/text/Strings.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24100">
@@ -808,13 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/StatisticWords.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/JavaJDK/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -964,21 +915,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        <state relative-caret-position="347">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/StatisticWords.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/EncodeGBKTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="130" column="74" selection-start-line="130" selection-start-column="74" selection-end-line="130" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/MaxStrSubValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/SortStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
