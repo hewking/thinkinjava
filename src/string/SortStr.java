@@ -9,7 +9,6 @@ public class SortStr {
     public static void main(String[] args) {
         List<String> list = CollectionsKt.arrayListOf("orojtoj","abc","abcde","sdfsf","psdfs");
 
-
         Comparator<String> comparator = new Comparator<String>() {
             @Override
             public int compare(String o1, String o2) {
