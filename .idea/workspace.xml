@@ -2,23 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/file/FileLogDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file/FromEndRF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/SplitStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$Coumser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ValuePassTest$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ValuePassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo$PrintRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/androidres/ConvertiOS2Android$convert$method$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/androidres/ConvertiOS2Android.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/com/opechain/wallet/SortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/AESUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/MD5Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/PassUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/RSAEncrypt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/RSAUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/StringUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/AESUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Base64Coder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Base64Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/RSA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/RSAUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Spm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/UserInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/impl/MyUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericA$GeneericB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/GetUTCTimeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$CallBack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/MD5Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/OkexTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/SymbolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/proxy/SocksServerOneThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/proxy/SocksServerOneThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil$UserWarper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil$Wraper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/ContainsSubStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/EncodeGBKTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/MaxStrSubValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/StatisticWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/TimeUtils.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,86 +141,25 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/file/FileLogDemo.kt">
+    <leaf>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/file/FileUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="130" column="109" selection-start-line="130" selection-start-column="99" selection-end-line="130" selection-end-column="109" />
+            <state relative-caret-position="490">
+              <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/Writer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="162" column="18" lean-forward="true" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/String.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/RandomAccessFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="908" column="24" selection-start-line="908" selection-start-column="24" selection-end-line="908" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/file/FromEndRF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1708#1709#0" expanded="true" />
-                <element signature="e#1754#1755#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/debug2.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="914" column="18" selection-start-line="914" selection-start-column="18" selection-end-line="914" selection-end-column="18" />
-              <folding>
-                <element signature="e#62860#62861#0" expanded="true" />
-                <element signature="e#62916#62917#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,6 +198,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/generics/GenericArray.java" />
+        <option value="$PROJECT_DIR$/src/generics/Demo.java" />
+        <option value="$PROJECT_DIR$/src/rsa/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/src/rsa/PassUtils.java" />
+        <option value="$PROJECT_DIR$/src/rsa/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/rsa/AESUtils.java" />
+        <option value="$PROJECT_DIR$/src/crypt/MD5Utils.java" />
         <option value="$PROJECT_DIR$/src/crypt/rsa/RSAUtils.java" />
         <option value="$PROJECT_DIR$/src/crypt/PassUtils.java" />
         <option value="$PROJECT_DIR$/src/crypt/StringUtils.java" />
@@ -247,14 +248,6 @@
         <option value="$PROJECT_DIR$/src/demo/Circle.java" />
         <option value="$PROJECT_DIR$/src/demo/Test.java" />
         <option value="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" />
-        <option value="$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt" />
-        <option value="$PROJECT_DIR$/src/string/SplitStringTest.java" />
-        <option value="$PROJECT_DIR$/src/file/FromEndRF.java" />
-        <option value="E:/debug.log" />
-        <option value="$PROJECT_DIR$/src/file/FileUtils.java" />
-        <option value="E:/debug2.log_tmp" />
-        <option value="E:/debug2.log" />
-        <option value="$PROJECT_DIR$/src/file/FileLogDemo.kt" />
       </list>
     </option>
   </component>
@@ -278,7 +271,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,13 +281,45 @@
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,22 +358,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.file.FileLogDemo">
-    <configuration name="FromEndRF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="file.FromEndRF" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeadLockDemo" />
       <module name="thinkinjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="file.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="SplitStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.SplitStringTest" />
+    <configuration name="GenericA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.GenericA" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
@@ -400,19 +416,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DeadLockDemo" />
+      <item itemvalue="Application.GenericA" />
+      <item itemvalue="Kotlin.string.StatisticWords" />
       <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.SplitStringTest" />
-      <item itemvalue="Kotlin.file.FileLogDemo" />
-      <item itemvalue="Application.FromEndRF" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.file.FileLogDemo" />
-        <item itemvalue="Application.FromEndRF" />
-        <item itemvalue="Application.SplitStringTest" />
-        <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
+        <item itemvalue="Kotlin.string.StatisticWords" />
+        <item itemvalue="Application.GenericA" />
+        <item itemvalue="Application.DeadLockDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -455,26 +471,39 @@
       <workItem from="1537102424711" duration="1360000" />
       <workItem from="1538147983941" duration="193000" />
       <workItem from="1539533957885" duration="2979000" />
-      <workItem from="1539573615644" duration="27000" />
-      <workItem from="1539573871293" duration="298000" />
-      <workItem from="1539742005440" duration="121000" />
-      <workItem from="1539742151811" duration="1571000" />
-      <workItem from="1539927939096" duration="9000" />
-      <workItem from="1540288884877" duration="84000" />
-      <workItem from="1541405279327" duration="94000" />
-      <workItem from="1541407127854" duration="5963000" />
-      <workItem from="1541468211067" duration="16249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57012000" />
+    <option name="totallyTimeSpent" value="32596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15618336" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40518135" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3282123" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23153692" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3977591" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.16126943" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3277311" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -733,35 +762,35 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ProducerConsumerModel.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/TimeUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        <state relative-caret-position="5425">
+          <caret line="223" column="24" lean-forward="true" selection-start-line="223" selection-start-column="24" selection-end-line="223" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflect/User.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/SortTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/FileUtils.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflect/ReflectUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/utils/TimeConverterUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="2550">
+          <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicproxy/UserInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicproxy/UserService.java">
+    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/text/Strings.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -930,11 +959,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib.jar!/kotlin/io/TextStreamsKt.class">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/VolatileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib.jar!/kotlin/io/FilesKt.class">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/string/StatisticWords.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib.jar!/kotlin/io/ByteStreamsKt.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -1093,8 +1130,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/file/FileLogDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        <state relative-caret-position="490">
+          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
