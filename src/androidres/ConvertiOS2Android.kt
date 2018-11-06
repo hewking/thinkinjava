@@ -15,7 +15,7 @@ object ConvertiOS2Android {
         //1.新建目录 xhdpi  xxhdpi,不存在则新建
         //2. 遍历目标文件夹，通过@2x @3x结尾的文件 ，分割文件名，并且在xhdpi ,xxhdpi 分别copy 过去
 
-        convert("C:\\Users\\60491\\Desktop\\testsrc")
+        convert("\\\\192.168.6.88\\Design Sharing1\\GuildChat\\v1.4\\v1.4.4\\切图")
 
     }
 
