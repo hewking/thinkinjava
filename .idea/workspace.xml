@@ -1,79 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/list/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/CurrentModifiedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/regex/RegexDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/DeadLockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$Coumser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ProducerConsumerModel2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ValuePassTest$A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/ValuePassTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo$PrintRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/VolatileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/androidres/ConvertiOS2Android$convert$method$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/androidres/ConvertiOS2Android.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/com/opechain/wallet/SortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/AESUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/MD5Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/PassUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/RSAEncrypt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/RSAUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/StringUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/AESUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Base64Coder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Base64Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/RSA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/RSAUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/crypt/rsa/Spm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/UserInvocationHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/dynamicproxy/impl/MyUserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericA$GeneericB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/generics/GenericArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/GetUTCTimeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils$CallBack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/HttpUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/MD5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/OkexTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/SymbolTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/huobi/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/proxy/SocksServerOneThread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/proxy/SocksServerOneThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil$UserWarper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil$Wraper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/ReflectUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/reflect/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/ContainsSubStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/EncodeGBKTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/MaxStrSubValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/string/StatisticWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/FileUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/thinkinjava/utils/TimeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crypt/AESUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crypt/AESUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crypt/rsa/AESUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crypt/rsa/AESUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crypt/rsa/Base64Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crypt/rsa/Base64Utils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,47 +27,57 @@
     <session id="-827825964">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.38" value="3" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.40" value="3" />
+          <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.80" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="392" />
+          <entry key="java" value="1681" />
           <entry key="kt" value="3502" />
           <entry key="log" value="28" />
+          <entry key="regexp" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="392" />
+          <entry key="JAVA" value="1681" />
           <entry key="Kotlin" value="3502" />
           <entry key="PLAIN_TEXT" value="28" />
+          <entry key="RegExp" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="26" />
-          <entry key="kt" value="14" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="42" />
+          <entry key="kt" value="17" />
           <entry key="log" value="6" />
           <entry key="log_tmp" value="1" />
+          <entry key="regexp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="26" />
-          <entry key="Kotlin" value="14" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="JAVA" value="42" />
+          <entry key="Kotlin" value="17" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -141,31 +87,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-              <folding>
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -190,6 +112,8 @@
       <find>OkHttpClient</find>
       <find>proxy</find>
       <find>append</find>
+      <find>regex2</find>
+      <find>ENCRYPTION_IV</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,17 +122,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/generics/GenericArray.java" />
-        <option value="$PROJECT_DIR$/src/generics/Demo.java" />
-        <option value="$PROJECT_DIR$/src/rsa/MD5Utils.java" />
-        <option value="$PROJECT_DIR$/src/rsa/PassUtils.java" />
-        <option value="$PROJECT_DIR$/src/rsa/StringUtils.java" />
         <option value="$PROJECT_DIR$/src/rsa/AESUtils.java" />
         <option value="$PROJECT_DIR$/src/crypt/MD5Utils.java" />
         <option value="$PROJECT_DIR$/src/crypt/rsa/RSAUtils.java" />
         <option value="$PROJECT_DIR$/src/crypt/PassUtils.java" />
         <option value="$PROJECT_DIR$/src/crypt/StringUtils.java" />
-        <option value="$PROJECT_DIR$/src/crypt/rsa/Base64Utils.java" />
         <option value="$PROJECT_DIR$/src/crypt/rsa/RSA.java" />
         <option value="$PROJECT_DIR$/src/crypt/RSAEncrypt.java" />
         <option value="$PROJECT_DIR$/src/crypt/MainTest.java" />
@@ -248,6 +166,13 @@
         <option value="$PROJECT_DIR$/src/demo/Circle.java" />
         <option value="$PROJECT_DIR$/src/demo/Test.java" />
         <option value="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" />
+        <option value="$PROJECT_DIR$/src/string/regex/RegexDemo.java" />
+        <option value="$PROJECT_DIR$/src/string/CurrentModifiedDemo.java" />
+        <option value="$PROJECT_DIR$/src/crypt/rsa/AESUtil.java" />
+        <option value="$PROJECT_DIR$/src/crypt/rsa/Base64Utils.java" />
+        <option value="$PROJECT_DIR$/src/crypt/AESUtils.java" />
+        <option value="$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt" />
+        <option value="$PROJECT_DIR$/src/list/ListTest.java" />
       </list>
     </option>
   </component>
@@ -288,46 +213,22 @@
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hewking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hewking" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hewking" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="InputStreamRead&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Con&#9;FILE&#9;file://E:/gitrepository/thinkinjava/src/androidres/ConvertiOS2Android.kt&#10;imeU&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeConverterUtil.java&#10;Sort&#9;null&#9;null&#10;HttpUtils&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java&#10;Time&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeUtils.java&#10;HttpUt&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java" />
+    <property name="SearchEverywhereHistoryKey" value="Base&#9;PSI&#9;JAVA://crypt.rsa.Base64Utils&#10;Aes&#9;PSI&#9;JAVA://crypt.rsa.AESUtil&#10;InputStreamRead&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Con&#9;FILE&#9;file://E:/gitrepository/thinkinjava/src/androidres/ConvertiOS2Android.kt&#10;imeU&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeConverterUtil.java&#10;Sort&#9;null&#9;null&#10;HttpUtils&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java&#10;Time&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeUtils.java&#10;HttpUt&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541495672932" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547459416097" />
+    <property name="last.edited.regexp" value="&quot;ddd&quot;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../excel-xml-reader" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -358,17 +259,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeadLockDemo" />
-      <module name="thinkinjava" />
-    </configuration>
-    <configuration name="GenericA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.GenericA" />
+  <component name="RunManager" selected="Application.ListTest">
+    <configuration name="AESUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crypt.rsa.AESUtil" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="crypt.rsa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,12 +273,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Test" />
+    <configuration name="AESUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crypt.AESUtils" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="crypt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base64Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crypt.rsa.Base64Utils" />
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crypt.rsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ListTest" />
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,33 +325,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="file.FileLogDemo" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="thinkinjava" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="file.FileLogDemo" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.DeadLockDemo" />
-      <item itemvalue="Application.GenericA" />
-      <item itemvalue="Kotlin.string.StatisticWords" />
       <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.AESUtils" />
+      <item itemvalue="Application.AESUtil" />
+      <item itemvalue="Application.Base64Utils" />
+      <item itemvalue="Application.ListTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ListTest" />
         <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
-        <item itemvalue="Kotlin.string.StatisticWords" />
-        <item itemvalue="Application.GenericA" />
-        <item itemvalue="Application.DeadLockDemo" />
+        <item itemvalue="Application.AESUtils" />
+        <item itemvalue="Application.Base64Utils" />
+        <item itemvalue="Application.AESUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -471,39 +381,40 @@
       <workItem from="1537102424711" duration="1360000" />
       <workItem from="1538147983941" duration="193000" />
       <workItem from="1539533957885" duration="2979000" />
+      <workItem from="1541496102834" duration="98000" />
+      <workItem from="1541558062596" duration="664000" />
+      <workItem from="1542252191371" duration="631000" />
+      <workItem from="1542274962960" duration="50000" />
+      <workItem from="1542440657233" duration="3601000" />
+      <workItem from="1542450612128" duration="511000" />
+      <workItem from="1543473648564" duration="124000" />
+      <workItem from="1544004326004" duration="598000" />
+      <workItem from="1544586194640" duration="115000" />
+      <workItem from="1544768758065" duration="45000" />
+      <workItem from="1545710094983" duration="291000" />
+      <workItem from="1546417498960" duration="1478000" />
+      <workItem from="1546510585164" duration="244000" />
+      <workItem from="1547103328162" duration="438000" />
+      <workItem from="1547459190594" duration="222000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1541496141491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541496141491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32596000" />
+    <option name="totallyTimeSpent" value="41484000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40518135" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3282123" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23153692" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3977591" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.16126943" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3277311" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -511,14 +422,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2753623" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25529543" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39687848" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3277592" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850778" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32664436" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -538,6 +449,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -645,7 +560,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt</url>
-          <line>41</line>
+          <line>40</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
@@ -762,122 +677,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/utils/TimeUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5425">
-          <caret line="223" column="24" lean-forward="true" selection-start-line="223" selection-start-column="24" selection-end-line="223" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/SortTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/FileUtils.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/TimeConverterUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2550">
-          <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/text/Strings.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/Action.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/Rect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/text/StringBuilderJVM.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="47" column="92" selection-start-line="47" selection-start-column="92" selection-end-line="47" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/SplitStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ValuePassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3950">
-          <caret line="181" column="11" selection-start-line="181" selection-start-column="11" selection-end-line="181" selection-end-column="11" />
-          <folding>
-            <element signature="e#5951#5952#0" expanded="true" />
-            <element signature="e#5996#5997#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Appendable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -889,13 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -931,10 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="219" column="31" selection-start-line="219" selection-start-column="31" selection-end-line="219" selection-end-column="31" />
-          <folding>
-            <element signature="e#6761#6762#0" expanded="true" />
-            <element signature="e#6809#6810#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -956,13 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1375">
           <caret line="393" column="6" lean-forward="true" selection-start-line="393" selection-start-column="6" selection-end-line="393" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VolatileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -1004,10 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
-          <folding>
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1568#1569#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1015,10 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="11" />
-          <folding>
-            <element signature="e#1188#1189#0" expanded="true" />
-            <element signature="e#1219#1220#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1054,10 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="574">
           <caret line="914" column="18" selection-start-line="914" selection-start-column="18" selection-end-line="914" selection-end-column="18" />
-          <folding>
-            <element signature="e#62860#62861#0" expanded="true" />
-            <element signature="e#62916#62917#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1130,22 +899,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/file/FileLogDemo.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1425">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/SplitStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/CurrentModifiedDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13425">
+          <caret line="575" column="23" selection-start-line="575" selection-start-column="23" selection-end-line="575" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7075">
+          <caret line="306" column="12" selection-start-line="306" selection-start-column="12" selection-end-line="306" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123650">
+          <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3325">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/regex/RegexDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypt/AESUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="101" column="27" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypt/rsa/Base64Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypt/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypt/rsa/AESUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypt/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/list/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VolatileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>

@@ -110,10 +110,10 @@ public class AESUtils {
         }*/
 
 
-//		String en = AESUtils.encrypt("hello", Constants.AES_KEY);
+//		String en = AESUtils.encrypt("U2FsdGVkX1//EARjvXk1rMk3ob2BE58XPg+ns6wkjfc=", "v2ex.com");
 //		System.out.println("encrypt:"+en);
-//		String decrypt = AESUtils.decrypt(en, Constants.AES_KEY);
+//		String decrypt = AESUtils.decrypt(en, "v2ex.com");
 //		System.out.println("decrypt:"+decrypt);
-		//  System.out.println(AESUtils.decrypt("B4A79BF8E7FE2C4876E0F09611E1334D", Constants.AES_KEY));
+		  System.out.println(AESUtils.decrypt("53616C7465645F5FFF100463BD7935ACC937A1BD81139F173E0FA7B3AC248DF7", "v2ex.com"));
 	}
 }
