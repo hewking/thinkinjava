@@ -2,74 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="update java lambda demo">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeadLockDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProducerConsumerModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProducerConsumerModel2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValuePassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VolatileDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/androidres/ConvertiOS2Android.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hewking/demo/lambda/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hewking/demo/lambda/Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hewking/demo/lambda/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/AESUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/MD5Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/PassUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/RSAEncrypt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/RSAUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/rsa/AESUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/rsa/Base64Coder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/rsa/Base64Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/rsa/RSA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/rsa/RSAUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crypt/rsa/Spm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Action.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Rect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicproxy/UserInvocationHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicproxy/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicproxy/impl/MyUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file/FileLogDemo.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file/FileUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file/FromEndRF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/GenericA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/GenericArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/huobi/GetUTCTimeUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/huobi/HttpUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/huobi/MD5Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/huobi/OkexTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/huobi/SymbolTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/huobi/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/ListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxy/HttpClientUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxy/SocksServerOneThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/ReflectUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflect/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/ContainsSubStr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/CurrentModifiedDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/EncodeGBKTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/MaxStrSubValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/SortStr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/SplitStringTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/StatisticWords.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/regex/RegexDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/FileUtils.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/SortTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/TimeConverterUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/TimeUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkinjava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thinkinjava.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +22,7 @@
     <session id="-827825964">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="2" />
@@ -125,7 +62,7 @@
         <counts>
           <entry key="class" value="6" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="71" />
+          <entry key="java" value="72" />
           <entry key="kt" value="17" />
           <entry key="log" value="6" />
           <entry key="log_tmp" value="1" />
@@ -136,7 +73,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="71" />
+          <entry key="JAVA" value="72" />
           <entry key="Kotlin" value="17" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="RegExp" value="1" />
@@ -169,11 +106,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="100">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/huobi/GetUTCTimeUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="103" column="12" lean-forward="true" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -273,6 +219,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-93" />
     <option name="y" value="11" />
@@ -316,41 +269,25 @@
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="huobi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hewking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="hewking" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
@@ -371,7 +308,7 @@
     <property name="SearchEverywhereHistoryKey" value="Predic&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java&#10;Base&#9;PSI&#9;JAVA://crypt.rsa.Base64Utils&#10;Aes&#9;PSI&#9;JAVA://crypt.rsa.AESUtil&#10;InputStreamRead&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Con&#9;FILE&#9;file://E:/gitrepository/thinkinjava/src/androidres/ConvertiOS2Android.kt&#10;imeU&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeConverterUtil.java&#10;Sort&#9;null&#9;null&#10;HttpUtils&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java&#10;Time&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeUtils.java&#10;HttpUt&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548127248306" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548127360146" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last.edited.regexp" value="&quot;ddd&quot;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../excel-xml-reader" />
@@ -543,7 +480,7 @@
       <workItem from="1547103328162" duration="438000" />
       <workItem from="1547459190594" duration="1229000" />
       <workItem from="1548061189302" duration="5248000" />
-      <workItem from="1548122506528" duration="4735000" />
+      <workItem from="1548122506528" duration="4848000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1541496141491</created>
@@ -566,16 +503,23 @@
       <option name="project" value="LOCAL" />
       <updated>1548068682476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update java lambda demo">
+      <created>1548127309585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548127309586</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52696000" />
+    <option name="totallyTimeSpent" value="52809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -591,7 +535,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3277592" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.27201784" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.27201784" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32664436" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -1091,13 +1035,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huobi/GetUTCTimeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="103" column="12" lean-forward="true" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/text/DateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -1198,8 +1135,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="100">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huobi/GetUTCTimeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="103" column="12" lean-forward="true" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1260,7 +1204,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1268,6 +1211,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
