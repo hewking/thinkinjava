@@ -2,6 +2,7 @@ package crypt.rsa;
 
 
 import com.sun.org.apache.xml.internal.security.utils.Base64;
+import crypt.StringUtils;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -151,5 +152,14 @@ public class Base64Utils {
         in.close();
     }
 
+
+    public static void main(String[] args) {
+        try {
+            byte[] bytes = decode("U2FsdGVkX1//EARjvXk1rMk3ob2BE58XPg+ns6wkjfc=");
+            System.out.println(StringUtils.bytes2HexString(bytes));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 
 }  

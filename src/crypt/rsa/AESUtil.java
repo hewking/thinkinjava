@@ -133,4 +133,13 @@ public class AESUtil {
 	private static void appendHex(StringBuffer sb, byte b) {
 		sb.append(HEX.charAt((b >> 4) & 0x0f)).append(HEX.charAt(b & 0x0f));
 	}
+
+	public static void main(String[] args) {
+		try {
+			String s = decrypt("v2ex.com","U2FsdGVkX1//EARjvXk1rMk3ob2BE58XPg+ns6wkjfc=");
+			System.out.println(s);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 }

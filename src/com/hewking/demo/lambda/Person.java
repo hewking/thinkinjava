@@ -2,6 +2,10 @@ package com.hewking.demo.lambda;
 
 public class Person {
 
+    public Person gen() {
+        return null;
+    }
+
     public enum Sex{
         MALE,FEMALE
     }
@@ -62,6 +66,8 @@ public class Person {
         Person gen();
     }
 
+
+
     public static void main(String[] args) {
         Person p = new Person();
         p.opC(Person::getAge);
@@ -75,5 +81,10 @@ public class Person {
         });
 
         p.gen(Person::new);
+    }
+
+    public void lambda(){
+        Person p = new Person();
+        p.opC(Person::getAge);
     }
 }
