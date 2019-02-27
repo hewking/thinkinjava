@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Client.kt" line="41" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="update java lambda demo">
+    <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="add maven framework and add junit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Client.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Interceptor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/RealChain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Request.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Response.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkinjava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thinkinjava.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,62 +35,71 @@
     <session id="-827825964">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.38" value="3" />
           <entry key="project.open.time.39" value="3" />
           <entry key="project.open.time.40" value="3" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.80" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3078" />
-          <entry key="kt" value="3502" />
+          <entry key="gitignore" value="13" />
+          <entry key="java" value="3666" />
+          <entry key="kt" value="4331" />
           <entry key="log" value="28" />
           <entry key="regexp" value="26" />
-          <entry key="txt" value="38" />
-          <entry key="xml" value="11" />
+          <entry key="txt" value="125" />
+          <entry key="xml" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3078" />
-          <entry key="Kotlin" value="3502" />
-          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="Git file" value="13" />
+          <entry key="JAVA" value="3666" />
+          <entry key="Kotlin" value="4331" />
+          <entry key="PLAIN_TEXT" value="153" />
           <entry key="RegExp" value="26" />
-          <entry key="XML" value="11" />
+          <entry key="XML" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="gitignore" value="1" />
-          <entry key="java" value="72" />
-          <entry key="kt" value="17" />
+          <entry key="gitignore" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="81" />
+          <entry key="kt" value="23" />
           <entry key="log" value="6" />
           <entry key="log_tmp" value="1" />
           <entry key="regexp" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="72" />
-          <entry key="Kotlin" value="17" />
+          <entry key="Git file" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="81" />
+          <entry key="Kotlin" value="23" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="RegExp" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -87,39 +109,60 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="296">
+              <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Interceptor.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Request.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huobi/GetUTCTimeUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Client.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="103" column="12" lean-forward="true" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+              <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/RealChain.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Response.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -129,8 +172,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -159,15 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/crypt/rsa/RSA.java" />
-        <option value="$PROJECT_DIR$/src/crypt/RSAEncrypt.java" />
-        <option value="$PROJECT_DIR$/src/crypt/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/crypt/RSAUtils.java" />
-        <option value="$PROJECT_DIR$/src/huobi/HttpUtils.java" />
-        <option value="$PROJECT_DIR$/src/utils/TimeConverterUtil.java" />
-        <option value="$PROJECT_DIR$/src/huobi/test.kt" />
-        <option value="$PROJECT_DIR$/src/huobi/ttt.java" />
-        <option value="$PROJECT_DIR$/src/string/MaxStrSubValue.java" />
         <option value="$PROJECT_DIR$/src/string/ContainsSubStr.java" />
         <option value="$PROJECT_DIR$/src/string/EncodeGBKTest.java" />
         <option value="$PROJECT_DIR$/src/huobi/HuobiApiSigner.java" />
@@ -208,8 +242,17 @@
         <option value="$PROJECT_DIR$/src/com/hewking/demo/lambda/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/hewking/demo/lambda/Demo2.java" />
         <option value="$PROJECT_DIR$/test/com/hewking/test/Test1.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/huobi/GetUTCTimeUtil.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo2.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo3.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Interceptor.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Request.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Client.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Response.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/RealChain.kt" />
       </list>
     </option>
   </component>
@@ -240,6 +283,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,7 +315,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huobi" type="462c0819:PsiDirectoryNode" />
+              <item name="androidres" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
@@ -279,7 +323,117 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="okhttp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crypt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
@@ -291,13 +445,13 @@
             </path>
             <path>
               <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -305,13 +459,13 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="Predic&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java&#10;Base&#9;PSI&#9;JAVA://crypt.rsa.Base64Utils&#10;Aes&#9;PSI&#9;JAVA://crypt.rsa.AESUtil&#10;InputStreamRead&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Con&#9;FILE&#9;file://E:/gitrepository/thinkinjava/src/androidres/ConvertiOS2Android.kt&#10;imeU&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeConverterUtil.java&#10;Sort&#9;null&#9;null&#10;HttpUtils&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java&#10;Time&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeUtils.java&#10;HttpUt&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java" />
+    <property name="SearchEverywhereHistoryKey" value="IntStream&#9;PSI&#9;JAVA://java.util.stream.IntStream&#10;.ignore&#9;ACTION&#9;Ignore.New&#10;Predic&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java&#10;Base&#9;PSI&#9;JAVA://crypt.rsa.Base64Utils&#10;Aes&#9;PSI&#9;JAVA://crypt.rsa.AESUtil&#10;InputStreamRead&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Con&#9;FILE&#9;file://E:/gitrepository/thinkinjava/src/androidres/ConvertiOS2Android.kt&#10;imeU&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeConverterUtil.java&#10;Sort&#9;null&#9;null&#10;HttpUtils&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java&#10;Time&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeUtils.java&#10;HttpUt&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548127360146" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551252539775" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last.edited.regexp" value="&quot;ddd&quot;" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../excel-xml-reader" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mall" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -342,86 +496,98 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo2">
-    <configuration name="AESUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="crypt.AESUtils" />
+  <component name="RunManager" selected="Kotlin.com.hewking.demo.pattern.okhttp.Client">
+    <configuration name="Demo1.testDistinct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crypt.*" />
+          <option name="PATTERN" value="com.hewking.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.Demo1" />
+      <option name="METHOD_NAME" value="testDistinct" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Base64Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="crypt.rsa.Base64Utils" />
+    <configuration name="Demo1.testMapForElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crypt.rsa.*" />
+          <option name="PATTERN" value="com.hewking.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.Demo1" />
+      <option name="METHOD_NAME" value="testMapForElement" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hewking.demo.lambda.Demo2" />
+    <configuration name="Demo1.testSummaryStaistics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hewking.demo.lambda.*" />
+          <option name="PATTERN" value="com.hewking.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.Demo1" />
+      <option name="METHOD_NAME" value="testSummaryStaistics" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ListTest" />
+    <configuration name="Demo3.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.*" />
+          <option name="PATTERN" value="com.hewking.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.Demo3" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="androidres.ConvertiOS2Android" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.hewking.demo.pattern.okhttp.Client" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="thinkinjava" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="androidres.ConvertiOS2Android" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.demo.pattern.okhttp.Client" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
-      <item itemvalue="Application.AESUtils" />
-      <item itemvalue="Application.Base64Utils" />
-      <item itemvalue="Application.ListTest" />
-      <item itemvalue="Application.Demo2" />
+      <item itemvalue="JUnit.Demo1.testMapForElement" />
+      <item itemvalue="JUnit.Demo1.testDistinct" />
+      <item itemvalue="JUnit.Demo1.testSummaryStaistics" />
+      <item itemvalue="JUnit.Demo3.test" />
+      <item itemvalue="Kotlin.com.hewking.demo.pattern.okhttp.Client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Kotlin.androidres.ConvertiOS2Android" />
-        <item itemvalue="Application.AESUtils" />
-        <item itemvalue="Application.Base64Utils" />
+        <item itemvalue="Kotlin.com.hewking.demo.pattern.okhttp.Client" />
+        <item itemvalue="JUnit.Demo3.test" />
+        <item itemvalue="JUnit.Demo1.testSummaryStaistics" />
+        <item itemvalue="JUnit.Demo1.testDistinct" />
+        <item itemvalue="JUnit.Demo1.testMapForElement" />
       </list>
     </recent_temporary>
   </component>
@@ -481,6 +647,13 @@
       <workItem from="1547459190594" duration="1229000" />
       <workItem from="1548061189302" duration="5248000" />
       <workItem from="1548122506528" duration="4848000" />
+      <workItem from="1548127384123" duration="3713000" />
+      <workItem from="1548228881177" duration="2303000" />
+      <workItem from="1548234930090" duration="3000" />
+      <workItem from="1548381885597" duration="66000" />
+      <workItem from="1548397319998" duration="197000" />
+      <workItem from="1550634316755" duration="27000" />
+      <workItem from="1551250602654" duration="2537000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1541496141491</created>
@@ -510,16 +683,50 @@
       <option name="project" value="LOCAL" />
       <updated>1548127309586</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add maven framework and add junit">
+      <created>1548127519071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548127519071</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update java8 maven plugin">
+      <created>1548127692893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548127692893</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Demo1_testFilterToList - 2019.01.22 at 11h 29m 26s.xml">
+      <configuration name="Demo1.testFilterToList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1_testFilterToList - 2019.01.22 at 11h 29m 43s.xml">
+      <configuration name="Demo1.testFilterToList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1_testMapForElement - 2019.01.22 at 11h 33m 30s.xml">
+      <configuration name="Demo1.testMapForElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1_testDistinct - 2019.01.22 at 11h 35m 22s.xml">
+      <configuration name="Demo1.testDistinct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1_testSummaryStaistics - 2019.01.23 at 15h 40m 22s.xml">
+      <configuration name="Demo1.testSummaryStaistics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo3_test - 2019.01.25 at 14h 25m 16s.xml">
+      <configuration name="Demo3.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52809000" />
+    <option name="totallyTimeSpent" value="61655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -528,14 +735,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25529543" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3043478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39687848" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3277592" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.27201784" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.27090302" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32664436" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -560,7 +767,12 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="update test" />
     <MESSAGE value="update java lambda demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="update java lambda demo" />
+    <MESSAGE value="add maven framework" />
+    <MESSAGE value="add maven framework and add junit" />
+    <MESSAGE value="update java8 maven plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="update java8 maven plugin" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -590,13 +802,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/crypt/rsa/RSAUtils.java</url>
-          <line>165</line>
+          <line>158</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/crypt/rsa/RSAUtils.java</url>
-          <line>171</line>
+          <line>164</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -608,19 +820,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/crypt/RSAUtils.java</url>
-          <line>138</line>
+          <line>134</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/crypt/RSAUtils.java</url>
-          <line>108</line>
+          <line>104</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/crypt/RSAUtils.java</url>
-          <line>87</line>
+          <line>83</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -656,7 +868,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileUtils.java</url>
-          <line>131</line>
+          <line>125</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
@@ -674,13 +886,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>18</line>
+          <line>17</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>65</line>
+          <line>64</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
@@ -692,43 +904,43 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>109</line>
+          <line>111</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>125</line>
+          <line>127</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>31</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>97</line>
+          <line>98</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>145</line>
+          <line>148</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>154</line>
+          <line>157</line>
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
-          <line>29</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
@@ -785,96 +997,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/debug2.log_tmp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/common/kotlin/TextH.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="117" column="25" selection-start-line="117" selection-start-column="25" selection-end-line="117" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/String.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/file/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="130" column="109" selection-start-line="130" selection-start-column="99" selection-end-line="130" selection-end-column="109" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/debug2.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/SplitStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/CurrentModifiedDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13425">
-          <caret line="575" column="23" selection-start-line="575" selection-start-column="23" selection-end-line="575" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7075">
-          <caret line="306" column="12" selection-start-line="306" selection-start-column="12" selection-end-line="306" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3325">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/regex/RegexDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/androidres/ConvertiOS2Android.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -945,16 +1067,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/lambda/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/Collectors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4050">
@@ -1001,16 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27375">
           <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/lambda/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1112,38 +1214,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/hewking/test/Test1.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
+        <state relative-caret-position="2050">
           <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/hewking/test/Test1.java">
+    <entry file="file://$PROJECT_DIR$/thinkinjava.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/IntSummaryStatistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="975">
+          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/BaseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/lambda/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/lambda/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="225">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/huobi/GetUTCTimeUtil.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#26#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Interceptor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Request.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Response.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/RealChain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Client.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="103" column="12" lean-forward="true" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+          <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
         </state>
       </provider>
     </entry>
