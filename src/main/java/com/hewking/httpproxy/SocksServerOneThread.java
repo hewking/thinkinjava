@@ -1,4 +1,4 @@
-package com.hewking.proxy;
+package com.hewking.httpproxy;
 
 import java.io.*;
 import java.net.InetAddress;
@@ -80,7 +80,7 @@ public class SocksServerOneThread implements Runnable {
                 } else if ((openSock5 && 0x05 == protocol)) {// 如果开启代理5，并以socks5协议请求
                     proxy_socket = sock5_check(a_in, a_out);
                 } else {// 非socks 4 ,5 协议的请求
-                    log("not socks com.hewking.proxy : %s  openSock4[] openSock5[]", tmp[0], openSock4, openSock5);
+                    log("not socks com.hewking.httpproxy : %s  openSock4[] openSock5[]", tmp[0], openSock4, openSock5);
                 }
                 if (null != proxy_socket) {
                     CountDownLatch latch = new CountDownLatch(1);
@@ -184,7 +184,7 @@ public class SocksServerOneThread implements Runnable {
         if (!socksNeekLogin || isLogin) {// 验证是否需要登录
             tmp = new byte[4];
             in.read(tmp);
-            log("com.hewking.proxy header >>  %s", Arrays.toString(tmp));
+            log("com.hewking.httpproxy header >>  %s", Arrays.toString(tmp));
             cmd = tmp[1];
             String host = getHost(tmp[3], in);
             tmp = new byte[2];

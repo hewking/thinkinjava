@@ -1,4 +1,4 @@
-package com.hewking;
+package com.hewking.demo.thread;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

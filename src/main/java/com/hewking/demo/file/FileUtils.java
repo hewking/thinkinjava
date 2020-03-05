@@ -1,4 +1,4 @@
-package com.hewking.file;
+package com.hewking.demo.file;
 
 
 import java.io.*;
@@ -17,7 +17,7 @@ public class FileUtils {
             File file = new File(path);
             File dir = file.getParentFile();
             if (dir == null) {
-//                Log.e(TAG, "com.hewking.file's parent dir is null, path=" + com.hewking.file.getCanonicalPath());
+//                Log.e(TAG, "com.hewking.demo.file's parent dir is null, path=" + com.hewking.demo.file.getCanonicalPath());
                 return null;
             }
 
@@ -30,12 +30,12 @@ public class FileUtils {
             }
 
             if (!file.exists() && !file.createNewFile()) {
-//                Log.e(TAG, "can not create dest com.hewking.file, path=" + path);
+//                Log.e(TAG, "can not create dest com.hewking.demo.file, path=" + path);
                 return null;
             }
             return file;
         } catch (Throwable e) {
-//            Log.e(TAG, "create dest com.hewking.file error, path=" + path, e);
+//            Log.e(TAG, "create dest com.hewking.demo.file error, path=" + path, e);
         }
 
         return null;
@@ -150,8 +150,8 @@ public class FileUtils {
         }
 
         /*if (out.exists()) {
-            if (com.hewking.file.delete()) {
-                out.renameTo(com.hewking.file);
+            if (com.hewking.demo.file.delete()) {
+                out.renameTo(com.hewking.demo.file);
             }
         }*/
     }

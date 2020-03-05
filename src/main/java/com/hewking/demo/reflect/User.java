@@ -1,4 +1,4 @@
-package com.hewking.reflect;
+package com.hewking.demo.reflect;
 
 public class User {
 

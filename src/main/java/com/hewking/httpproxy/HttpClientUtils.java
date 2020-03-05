@@ -1,10 +1,10 @@
-//package com.hewking.proxy;
+//package com.hewking.httpproxy;
 //
 //import java.io.File;
 //import java.io.FileInputStream;
 //import java.io.IOException;
 //import java.io.UnsupportedEncodingException;
-//import java.lang.com.hewking.reflect.Array;
+//import java.lang.com.hewking.demo.reflect.Array;
 //import java.net.InetSocketAddress;
 //import java.net.Proxy;
 //import java.net.URLEncoder;
@@ -506,13 +506,13 @@
 //         */
 //
 //        @Override
-//        public Request authenticate(Proxy com.hewking.proxy, Response response) throws IOException {
+//        public Request authenticate(Proxy com.hewking.httpproxy, Response response) throws IOException {
 //            // TODO Auto-generated method stub
 //            return null;
 //        }
 //
 //        @Override
-//        public Request authenticateProxy(Proxy com.hewking.proxy, Response response) throws IOException {
+//        public Request authenticateProxy(Proxy com.hewking.httpproxy, Response response) throws IOException {
 //            // TODO Auto-generated method stub
 //            return null;
 //        }
@@ -535,8 +535,8 @@
 //        // https support
 //        if (request.getUrl().toLowerCase().startsWith(HTTPS_PREFIX)) {
 //            okHttpClient.setSslSocketFactory(createSSLSocketFactory(request));
-////            Proxy com.hewking.proxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress(proxyHost, proxyPort));
-////            okHttpClient.setProxy(com.hewking.proxy);
+////            Proxy com.hewking.httpproxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress(proxyHost, proxyPort));
+////            okHttpClient.setProxy(com.hewking.httpproxy);
 //            // Authenticator.setDefault(new MyAuthenticator(username, password));
 //            // okHttpClient.setAuthenticator(new AuthenticatorAdapter());
 //            if (request.isHostnameVerify()) {

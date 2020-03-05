@@ -1,4 +1,4 @@
-package com.hewking.dynamicproxy;
+package com.hewking.demo.dynamicproxy;
 
 public interface UserService {
 

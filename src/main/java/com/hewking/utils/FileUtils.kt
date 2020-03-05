@@ -6,7 +6,7 @@ object FileUtils {
 
 
     fun rename(file: File, subfix: String = ""): Boolean {
-//        val com.hewking.file = File(path)
+//        val com.hewking.demo.file = File(path)
         if (!file.exists()) {
             return false
         }
@@ -17,7 +17,7 @@ object FileUtils {
             }
         } else {
             file.renameTo(File(file.parentFile, "${trueName(file.name.toLowerCase()) + subfix}"))
-//            com.hewking.file.renameTo(File(com.hewking.file.parentFile,com.hewking.file.name.substring(0,com.hewking.file.name.length - 2)))
+//            com.hewking.demo.file.renameTo(File(com.hewking.demo.file.parentFile,com.hewking.demo.file.name.substring(0,com.hewking.demo.file.name.length - 2)))
         }
         return true
     }

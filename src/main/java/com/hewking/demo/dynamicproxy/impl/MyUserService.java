@@ -1,6 +1,6 @@
-package com.hewking.dynamicproxy.impl;
+package com.hewking.demo.dynamicproxy.impl;
 
-import com.hewking.dynamicproxy.UserService;
+import com.hewking.demo.dynamicproxy.UserService;
 
 public class MyUserService implements UserService {
     @Override

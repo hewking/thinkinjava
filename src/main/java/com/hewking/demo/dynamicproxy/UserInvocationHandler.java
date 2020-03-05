@@ -1,4 +1,4 @@
-package com.hewking.dynamicproxy;
+package com.hewking.demo.dynamicproxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

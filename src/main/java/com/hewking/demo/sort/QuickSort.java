@@ -1,4 +1,4 @@
-package com.hewking.utils;
+package com.hewking.demo.sort;
 
 public class QuickSort {
 

@@ -1,4 +1,4 @@
-package com.hewking.list;
+package com.hewking.demo.collection;
 
 import java.util.ArrayList;
 import java.util.List;

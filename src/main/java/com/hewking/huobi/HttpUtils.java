@@ -230,7 +230,7 @@ public class HttpUtils {
                  * 这里重点注意： name里面的值为服务器端需要key 只有这个key 才可以得到对应的文件
                  * filename是文件的名字，包含后缀名的 比如:abc.png
                  */
-                sb.append("Content-Disposition: form-data; name=\"com.hewking.file\"; filename=\""
+                sb.append("Content-Disposition: form-data; name=\"com.hewking.demo.file\"; filename=\""
                         + file.getName() + "\"" + LINE_END);
                 sb.append("Content-Type: application/octet-stream; charset="
                         + CHARSET + LINE_END);

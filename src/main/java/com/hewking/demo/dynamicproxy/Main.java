@@ -1,8 +1,8 @@
-package com.hewking;
+package com.hewking.demo.dynamicproxy;
 
-import com.hewking.dynamicproxy.UserInvocationHandler;
-import com.hewking.dynamicproxy.UserService;
-import com.hewking.dynamicproxy.impl.MyUserService;
+import com.hewking.demo.dynamicproxy.UserInvocationHandler;
+import com.hewking.demo.dynamicproxy.UserService;
+import com.hewking.demo.dynamicproxy.impl.MyUserService;
 
 import java.lang.reflect.Proxy;
 

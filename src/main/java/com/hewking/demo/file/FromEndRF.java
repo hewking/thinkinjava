@@ -1,4 +1,4 @@
-package com.hewking.file;
+package com.hewking.demo.file;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

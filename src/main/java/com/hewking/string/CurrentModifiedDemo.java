@@ -7,7 +7,7 @@ public class CurrentModifiedDemo {
 
     public static void main(String[] args) {
 
-//        List<String> com.hewking.list = Arrays.asList(new String[]{"aa","bb","cc","ee","dd"});
+//        List<String> com.hewking.demo.collection = Arrays.asList(new String[]{"aa","bb","cc","ee","dd"});
         List<String> list2 = new ArrayList<String>();
         list2.add("aa");
         list2.add("bb");

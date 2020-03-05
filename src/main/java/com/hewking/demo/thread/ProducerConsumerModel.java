@@ -1,4 +1,4 @@
-package com.hewking;
+package com.hewking.demo.thread;
 
 /**
  * 生产者消费者模型

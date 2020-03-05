@@ -20,9 +20,9 @@ public class Demo1 {
 
     public static void main(String[] args) {
         List<String> list = Arrays.asList("hello", "Lisa", "left", "for", "school", "at", "senven", "o'clock");
-//        testFilter(com.hewking.list);
+//        testFilter(com.hewking.demo.collection);
 
-//        testMap(com.hewking.list);
+//        testMap(com.hewking.demo.collection);
 
 //        testReduce();
 

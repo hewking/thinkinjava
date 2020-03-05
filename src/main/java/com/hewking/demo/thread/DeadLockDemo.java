@@ -1,4 +1,4 @@
-package com.hewking;
+package com.hewking.demo.thread;
 
 public class DeadLockDemo {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-package com.hewking.reflect;
+package com.hewking.utils;
+
+import com.hewking.demo.reflect.User;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

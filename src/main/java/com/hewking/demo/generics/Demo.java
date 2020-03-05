@@ -1,4 +1,4 @@
-package com.hewking.generics;
+package com.hewking.demo.generics;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,7 +12,7 @@ public class Demo {
 
     public static void main(String[] args) {
 
-//        List<String>[] com.hewking.list = new List<String>[10]; 错误
+//        List<String>[] com.hewking.demo.collection = new List<String>[10]; 错误
         List<?>[] list = new List<?>[10];// 可以
         list[0] = new ArrayList<Integer>();
         list[1] = new ArrayList<String>();

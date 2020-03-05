@@ -1,4 +1,4 @@
-package com.hewking.generics;
+package com.hewking.demo.generics;
 
 public class GenericA<T> {
 

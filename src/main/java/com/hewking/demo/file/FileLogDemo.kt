@@ -1,4 +1,4 @@
-package com.hewking.file
+package com.hewking.demo.file
 
 import org.jetbrains.annotations.NotNull
 import java.io.*
@@ -16,9 +16,9 @@ object FileLogDemo {
     @JvmStatic
     fun main(args: Array<String>) {
         val file = File("\\debug2.log")
-//        append(com.hewking.file,"--end--")
-//        append(com.hewking.file,"\r\n")
-//        appendDate(com.hewking.file,"excption")
+//        append(com.hewking.demo.file,"--end--")
+//        append(com.hewking.demo.file,"\r\n")
+//        appendDate(com.hewking.demo.file,"excption")
 
         val index = indexEnd2(file, object : OnEndListener {
             override fun accept(rule: String): Boolean {
@@ -26,7 +26,7 @@ object FileLogDemo {
             }
         })
 
-        val text = FileUtils.subShrink("\\debug2.log", 12,/*com.hewking.file.length().toInt() -*/ index.toInt() /*-1*/)
+        val text = FileUtils.subShrink("\\debug2.log", 12,/*com.hewking.demo.file.length().toInt() -*/ index.toInt() /*-1*/)
 
         println("text $text")
     }

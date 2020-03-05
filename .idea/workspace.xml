@@ -7,6 +7,7 @@
     <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="add maven framework and add junit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hewking/VolatileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hewking/VolatileDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,82 +25,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Client.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huobi/MD5Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="81" column="21" lean-forward="true" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huobi/HttpUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="128" column="30" lean-forward="true" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huobi/GetUTCTimeUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="983">
-              <caret line="82" column="25" lean-forward="true" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dynamicproxy/impl/MyUserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dynamicproxy/UserInvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dynamicproxy/UserService.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Response.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/MD5Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="222">
+              <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/HttpUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="128" column="30" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/GetUTCTimeUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="983">
+              <caret line="82" column="25" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/dynamicproxy/impl/MyUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/dynamicproxy/UserInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/dynamicproxy/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/VolatileDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo3.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#26#98#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/string/ContainsSubStr.java" />
-        <option value="$PROJECT_DIR$/src/string/EncodeGBKTest.java" />
         <option value="$PROJECT_DIR$/src/huobi/HuobiApiSigner.java" />
         <option value="$PROJECT_DIR$/src/huobi/Test.java" />
         <option value="$PROJECT_DIR$/src/huobi/MD5Util.java" />
@@ -189,6 +200,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Client.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Response.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/RealChain.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hewking/dynamicproxy/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hewking/VolatileDemo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -244,7 +257,66 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hewking" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,7 +333,7 @@
     <property name="SearchEverywhereHistoryKey" value="IntStream&#9;PSI&#9;JAVA://java.util.stream.IntStream&#10;.ignore&#9;ACTION&#9;Ignore.New&#10;Predic&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java&#10;Base&#9;PSI&#9;JAVA://crypt.rsa.Base64Utils&#10;Aes&#9;PSI&#9;JAVA://crypt.rsa.AESUtil&#10;InputStreamRead&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Con&#9;FILE&#9;file://E:/gitrepository/thinkinjava/src/androidres/ConvertiOS2Android.kt&#10;imeU&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeConverterUtil.java&#10;Sort&#9;null&#9;null&#10;HttpUtils&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java&#10;Time&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeUtils.java&#10;HttpUt&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551252539775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583389995692" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last.edited.regexp" value="&quot;ddd&quot;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -271,16 +343,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\githutrepositiory\Repository\thinkinjava\src\huobi" />
+      <recent name="E:\githutrepositiory\Repository\thinkinjava\src\effectjava" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hewking" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\gitrepository\thinkinjava\src\file" />
       <recent name="E:\githutrepositiory\Repository\thinkinjava\src\proxy" />
       <recent name="E:\githutrepositiory\Repository\thinkinjava\src\utils" />
       <recent name="E:\githutrepositiory\Repository\thinkinjava\src" />
       <recent name="E:\githutrepositiory\Repository\thinkinjava\src\huobi" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\githutrepositiory\Repository\thinkinjava\src\huobi" />
-      <recent name="E:\githutrepositiory\Repository\thinkinjava\src\effectjava" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,7 +370,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.hewking.demo.pattern.okhttp.Client">
+  <component name="RunManager" selected="Application.VolatileDemo">
+    <configuration name="VolatileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hewking.demo.thread.VolatileDemo" />
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.demo.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo1.testDistinct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="thinkinjava" />
       <extension name="coverage">
@@ -307,22 +395,6 @@
       <option name="PACKAGE_NAME" value="com.hewking.test" />
       <option name="MAIN_CLASS_NAME" value="com.hewking.test.Demo1" />
       <option name="METHOD_NAME" value="testDistinct" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1.testMapForElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkinjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hewking.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hewking.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hewking.test.Demo1" />
-      <option name="METHOD_NAME" value="testMapForElement" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -374,19 +446,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Demo1.testMapForElement" />
       <item itemvalue="JUnit.Demo1.testDistinct" />
       <item itemvalue="JUnit.Demo1.testSummaryStaistics" />
       <item itemvalue="JUnit.Demo3.test" />
       <item itemvalue="Kotlin.com.hewking.demo.pattern.okhttp.Client" />
+      <item itemvalue="Application.VolatileDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VolatileDemo" />
         <item itemvalue="Kotlin.com.hewking.demo.pattern.okhttp.Client" />
         <item itemvalue="JUnit.Demo3.test" />
         <item itemvalue="JUnit.Demo1.testSummaryStaistics" />
         <item itemvalue="JUnit.Demo1.testDistinct" />
-        <item itemvalue="JUnit.Demo1.testMapForElement" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +525,7 @@
       <workItem from="1548397319998" duration="197000" />
       <workItem from="1550634316755" duration="27000" />
       <workItem from="1551250602654" duration="2537000" />
-      <workItem from="1583389380940" duration="254000" />
+      <workItem from="1583389380940" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1541496141491</created>
@@ -521,7 +593,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61909000" />
+    <option name="totallyTimeSpent" value="62189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="981" extended-state="6" />
@@ -533,18 +605,19 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.3295838" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3043478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39687848" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32733408" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32733408" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.26996624" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32664436" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32620922" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -588,157 +661,151 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypt/rsa/RSA.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
           <line>98</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypt/rsa/RSA.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
           <line>66</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypt/rsa/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSAUtils.java</url>
           <line>158</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypt/rsa/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSAUtils.java</url>
           <line>164</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypt/rsa/RSA.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
           <line>87</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypt/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
           <line>134</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypt/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
           <line>104</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/crypt/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
           <line>83</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/huobi/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/Test.java</url>
           <line>140</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/huobi/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/Test.java</url>
           <line>149</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/VolatileDemo.java</url>
-          <line>5</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/string/SplitStringTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/string/SplitStringTest.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FromEndRF.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FromEndRF.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileUtils.java</url>
           <line>125</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/utils/FileUtils.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/FileUtils.kt</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/androidres/ConvertiOS2Android.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/androidres/ConvertiOS2Android.kt</url>
           <line>40</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>64</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>77</line>
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>111</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>127</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>98</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>148</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>157</line>
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/file/FileLogDemo.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/file/FileLogDemo.kt</url>
           <line>28</line>
           <properties />
           <option name="timeStamp" value="31" />
@@ -796,31 +863,24 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/crypt/rsa/AESUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/AESUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/crypt/Constants.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/list/ListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/list/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VolatileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -838,14 +898,14 @@
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/BinaryOperator.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/BiFunction.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/huobi/OkexTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/OkexTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huobi/SymbolTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/SymbolTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-728">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -870,13 +930,6 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/IntSummaryStatistics.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/IntStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/BaseStream.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/lambda/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -906,16 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#26#98#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -960,56 +1003,42 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/pattern/okhttp/Client.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huobi/MD5Util.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/MD5Util.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
-          <caret line="81" column="21" lean-forward="true" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huobi/HttpUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/HttpUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
-          <caret line="128" column="30" lean-forward="true" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
+          <caret line="128" column="30" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huobi/GetUTCTimeUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/GetUTCTimeUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="983">
-          <caret line="82" column="25" lean-forward="true" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamicproxy/impl/MyUserService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/dynamicproxy/impl/MyUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamicproxy/UserInvocationHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/dynamicproxy/UserInvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dynamicproxy/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1017,6 +1046,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/dynamicproxy/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/VolatileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#26#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hewking/test/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
