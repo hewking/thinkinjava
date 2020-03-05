@@ -1,7 +1,7 @@
-# Compiled class file
+# Compiled class com.hewking.file
 *.class
 
-# Log file
+# Log com.hewking.file
 *.log
 
 # BlueJ files

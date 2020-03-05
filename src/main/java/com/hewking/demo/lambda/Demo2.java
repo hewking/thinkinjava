@@ -11,9 +11,9 @@ import java.util.stream.Collectors;
 public class Demo2 {
     public static void main(String[] args) {
         List<String> list = Arrays.asList("hello", "Lisa", "left", "for", "school", "at", "senven", "o'clock");
-//        testFilter(list);
+//        testFilter(com.hewking.list);
 
-//        testMap(list);
+//        testMap(com.hewking.list);
 
 //        testReduce();
 
