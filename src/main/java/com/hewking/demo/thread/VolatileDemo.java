@@ -1,5 +1,7 @@
 package com.hewking.demo.thread;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class VolatileDemo {
 
     private volatile int count = 0;
@@ -18,7 +20,7 @@ public class VolatileDemo {
         @Override
         public void run() {
             for (int i = 0; i < 10; i++) {
-                System.out.println("count : " + ++count);
+                System.out.println("count : " + count ++);
             }
         }
     }
