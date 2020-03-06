@@ -1,4 +1,4 @@
-package com.hewking.demo.test;
+package com.hewking.demo.thread;
 
 /**
  * 一个线程打印1，3，5...
