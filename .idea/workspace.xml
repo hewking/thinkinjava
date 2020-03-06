@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="add maven framework and add junit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/SynchronizedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ThreadStateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/CountDownLatchDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/VolatileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/VolatileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ThreadStateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ThreadStateDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,15 +32,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/collection/ListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -89,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ProducerConsumerModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="64" column="32" lean-forward="true" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+            <state relative-caret-position="426">
+              <caret line="57" column="42" lean-forward="true" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -98,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/SynchronizedDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
               <folding>
                 <element signature="e#251#252#0" expanded="true" />
                 <element signature="e#286#287#0" expanded="true" />
@@ -108,11 +97,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ThreadStateDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="71">
+              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding>
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#1581#1582#0" expanded="true" />
+                <element signature="e#1614#1615#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/CountDownLatchDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -120,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ProducerConsumerModel2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-434">
-              <caret line="6" column="40" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="40" />
+            <state relative-caret-position="317">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -161,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/reflect/ReflectUtil.java" />
         <option value="$PROJECT_DIR$/src/utils/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/utils/SortTest.kt" />
         <option value="$PROJECT_DIR$/src/utils/FileUtils.kt" />
@@ -212,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/VolatileDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/SynchronizedDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ThreadStateDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/CountDownLatchDemo.java" />
       </list>
     </option>
   </component>
@@ -323,7 +327,7 @@
     <property name="SearchEverywhereHistoryKey" value="IntStream&#9;PSI&#9;JAVA://java.util.stream.IntStream&#10;.ignore&#9;ACTION&#9;Ignore.New&#10;Predic&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java&#10;Base&#9;PSI&#9;JAVA://crypt.rsa.Base64Utils&#10;Aes&#9;PSI&#9;JAVA://crypt.rsa.AESUtil&#10;InputStreamRead&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Con&#9;FILE&#9;file://E:/gitrepository/thinkinjava/src/androidres/ConvertiOS2Android.kt&#10;imeU&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeConverterUtil.java&#10;Sort&#9;null&#9;null&#10;HttpUtils&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java&#10;Time&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeUtils.java&#10;HttpUt&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583459802007" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583479423781" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last.edited.regexp" value="&quot;ddd&quot;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -361,9 +365,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SynchronizedDemo">
+  <component name="RunManager" selected="Application.CountDownLatchDemo">
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hewking.demo.thread.CountDownLatchDemo" />
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.demo.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SynchronizedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hewking.demo.thread.SynchronizedDemo" />
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.demo.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadStateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hewking.demo.thread.ThreadStateDemo" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
@@ -388,38 +418,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1.testSummaryStaistics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkinjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hewking.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hewking.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hewking.test.Demo1" />
-      <option name="METHOD_NAME" value="testSummaryStaistics" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo3.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkinjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hewking.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hewking.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hewking.test.Demo3" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.hewking.demo.pattern.okhttp.Client" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="thinkinjava" />
       <option name="VM_PARAMETERS" />
@@ -434,19 +432,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Demo1.testSummaryStaistics" />
-      <item itemvalue="JUnit.Demo3.test" />
       <item itemvalue="Kotlin.com.hewking.demo.pattern.okhttp.Client" />
       <item itemvalue="Application.VolatileDemo" />
       <item itemvalue="Application.SynchronizedDemo" />
+      <item itemvalue="Application.ThreadStateDemo" />
+      <item itemvalue="Application.CountDownLatchDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.ThreadStateDemo" />
         <item itemvalue="Application.SynchronizedDemo" />
         <item itemvalue="Application.VolatileDemo" />
         <item itemvalue="Kotlin.com.hewking.demo.pattern.okhttp.Client" />
-        <item itemvalue="JUnit.Demo3.test" />
-        <item itemvalue="JUnit.Demo1.testSummaryStaistics" />
       </list>
     </recent_temporary>
   </component>
@@ -513,7 +511,7 @@
       <workItem from="1548397319998" duration="197000" />
       <workItem from="1550634316755" duration="27000" />
       <workItem from="1551250602654" duration="2537000" />
-      <workItem from="1583389380940" duration="5192000" />
+      <workItem from="1583389380940" duration="8301000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1541496141491</created>
@@ -581,13 +579,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66847000" />
+    <option name="totallyTimeSpent" value="69956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="981" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18743344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18743344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -598,12 +596,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30371204" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28796402" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39687848" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25309336" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25309336" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.26996624" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32620922" />
@@ -852,13 +850,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/OkexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/SymbolTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-728">
@@ -1094,24 +1085,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ProducerConsumerModel2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ProducerConsumerModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="64" column="32" lean-forward="true" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/SynchronizedDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
           <folding>
             <element signature="e#251#252#0" expanded="true" />
             <element signature="e#286#287#0" expanded="true" />
@@ -1119,10 +1096,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ProducerConsumerModel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ProducerConsumerModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="57" column="42" lean-forward="true" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/ThreadStateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="71">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#1581#1582#0" expanded="true" />
+            <element signature="e#1614#1615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hewking/demo/thread/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
         </state>
       </provider>
     </entry>
