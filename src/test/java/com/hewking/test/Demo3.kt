@@ -1,8 +1,8 @@
 package com.hewking.test
 
 //import io.reactivex.Observable
+import com.hewking.demo.pattern.singleton.Singleton
 import org.junit.Test
-import java.net.URL
 
 class Demo3 {
 
@@ -38,6 +38,11 @@ class Demo3 {
 //            it.printStackTrace()
 //            System.out.println("what the fuck")
 //        }
+    }
+
+    @Test
+    fun test2() {
+        Singleton.getInstance()
     }
 
 }
