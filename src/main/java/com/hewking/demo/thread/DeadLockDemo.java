@@ -36,14 +36,14 @@ public class DeadLockDemo {
     /**
      * 解决办法
      * private static void method2() {
-     * synchronized (String.class) {
+     * sync (String.class) {
      * try {
      * Thread.sleep(3000);
      * } catch (InterruptedException e) {
      * e.printStackTrace();
      * }
      * System.out.println("想要获取 锁 String.class");
-     * synchronized (Integer.class) {
+     * sync (Integer.class) {
      * System.out.println("获取到锁 String.class");
      * }
      * }
