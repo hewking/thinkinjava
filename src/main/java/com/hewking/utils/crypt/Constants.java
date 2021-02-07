@@ -1,4 +1,4 @@
-package com.hewking.crypt;
+package com.hewking.utils.crypt;
 
 public class Constants {
     //默认使用UTF-8编码

@@ -1,7 +1,7 @@
-package com.hewking.crypt.rsa;
+package com.hewking.utils.crypt.rsa;
 
 
-import com.hewking.crypt.StringUtils;
+import com.hewking.utils.crypt.StringUtils;
 
 /**
  * Copyright (C) 2016,深圳市红鸟网络科技股份有限公司 All rights reserved.

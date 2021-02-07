@@ -1,4 +1,4 @@
-package com.hewking.crypt;
+package com.hewking.utils.crypt;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;

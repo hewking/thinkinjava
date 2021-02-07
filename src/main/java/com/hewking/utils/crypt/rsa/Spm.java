@@ -1,4 +1,4 @@
-package com.hewking.crypt.rsa;
+package com.hewking.utils.crypt.rsa;
 
 /**
  * Copyright (C) 2016,深圳市红鸟网络科技股份有限公司 All rights reserved.

@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="add maven framework and add junit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/thinkinjava$AESUtils.coverage" NAME="AESUtils Coverage Results" MODIFIED="1518007909451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rsa.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getPrivateKey</find>
+      <find>decryptByPrivateKeyHex</find>
+      <find>EEE, dd MMM yyyy HH:mm:ss Z</find>
+      <find>params</find>
+      <find>ysdlf</find>
+      <find>sha256_HMAC</find>
+      <find>createSign</find>
+      <find>defaultTimeZone</find>
+      <find>prefixLength</find>
+      <find>Okhttp</find>
+      <find>OkHttpClient</find>
+      <find>proxy</find>
+      <find>append</find>
+      <find>regex2</find>
+      <find>ENCRYPTION_IV</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1792" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectId" id="1kty56aLzKS86chMYlz0m5JlRSo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="IntStream&#9;PSI&#9;JAVA://java.util.stream.IntStream&#10;.ignore&#9;ACTION&#9;Ignore.New&#10;Predic&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Predicate.java&#10;Base&#9;PSI&#9;JAVA://crypt.rsa.Base64Utils&#10;Aes&#9;PSI&#9;JAVA://crypt.rsa.AESUtil&#10;InputStreamRead&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Con&#9;FILE&#9;file://E:/gitrepository/thinkinjava/src/androidres/ConvertiOS2Android.kt&#10;imeU&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeConverterUtil.java&#10;Sort&#9;null&#9;null&#10;HttpUtils&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java&#10;Time&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/utils/TimeUtils.java&#10;HttpUt&#9;FILE&#9;file://E:/githutrepositiory/Repository/thinkinjava/src/huobi/HttpUtils.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588781735023" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last.edited.regexp" value="&quot;ddd&quot;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hewking" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/hewking/demo/thread" />
+      <recent name="E:\gitrepository\thinkinjava\src\file" />
+      <recent name="E:\githutrepositiory\Repository\thinkinjava\src\proxy" />
+      <recent name="E:\githutrepositiory\Repository\thinkinjava\src\utils" />
+      <recent name="E:\githutrepositiory\Repository\thinkinjava\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hewking.demo.sync" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/hewking/demo/sort" />
+      <recent name="E:\githutrepositiory\Repository\thinkinjava\src\huobi" />
+      <recent name="E:\githutrepositiory\Repository\thinkinjava\src\effectjava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MicoInterview.test4">
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hewking.demo.basic.EqualsTest" />
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.demo.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicoInterview.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.MicoInterview" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicoInterview.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.MicoInterview" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicoInterview.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.MicoInterview" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicoInterview.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.MicoInterview" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EqualsTest" />
+      <item itemvalue="JUnit.MicoInterview.test1" />
+      <item itemvalue="JUnit.MicoInterview.test2" />
+      <item itemvalue="JUnit.MicoInterview.test3" />
+      <item itemvalue="JUnit.MicoInterview.test4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MicoInterview.test4" />
+        <item itemvalue="JUnit.MicoInterview.test3" />
+        <item itemvalue="JUnit.MicoInterview.test2" />
+        <item itemvalue="JUnit.MicoInterview.test1" />
+        <item itemvalue="Application.EqualsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="" />
+      <created>1509288203822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509288203822</updated>
+      <workItem from="1509288206813" duration="2305000" />
+      <workItem from="1509781804186" duration="584000" />
+      <workItem from="1511880200095" duration="1782000" />
+      <workItem from="1514108855267" duration="741000" />
+      <workItem from="1515083880817" duration="151000" />
+      <workItem from="1515084118003" duration="191000" />
+      <workItem from="1515230853021" duration="9000" />
+      <workItem from="1525108384894" duration="14000" />
+      <workItem from="1525111261870" duration="417000" />
+      <workItem from="1526133721506" duration="1656000" />
+      <workItem from="1526465943388" duration="16000" />
+      <workItem from="1526873379861" duration="1777000" />
+      <workItem from="1527167172177" duration="774000" />
+      <workItem from="1527649628703" duration="86000" />
+      <workItem from="1527779192511" duration="1155000" />
+      <workItem from="1527825089792" duration="67000" />
+      <workItem from="1528613859492" duration="3430000" />
+      <workItem from="1530269806957" duration="317000" />
+      <workItem from="1530952496536" duration="34000" />
+      <workItem from="1530952567001" duration="896000" />
+      <workItem from="1530964106054" duration="4403000" />
+      <workItem from="1531194087974" duration="37000" />
+      <workItem from="1531466076006" duration="2861000" />
+      <workItem from="1531561217881" duration="213000" />
+      <workItem from="1535991331605" duration="2886000" />
+      <workItem from="1536990716910" duration="1262000" />
+      <workItem from="1537102424711" duration="1360000" />
+      <workItem from="1538147983941" duration="193000" />
+      <workItem from="1539533957885" duration="2979000" />
+      <workItem from="1541496102834" duration="98000" />
+      <workItem from="1541558062596" duration="664000" />
+      <workItem from="1542252191371" duration="631000" />
+      <workItem from="1542274962960" duration="50000" />
+      <workItem from="1542440657233" duration="3601000" />
+      <workItem from="1542450612128" duration="511000" />
+      <workItem from="1543473648564" duration="124000" />
+      <workItem from="1544004326004" duration="598000" />
+      <workItem from="1544586194640" duration="115000" />
+      <workItem from="1544768758065" duration="45000" />
+      <workItem from="1545710094983" duration="291000" />
+      <workItem from="1546417498960" duration="1478000" />
+      <workItem from="1546510585164" duration="244000" />
+      <workItem from="1547103328162" duration="438000" />
+      <workItem from="1547459190594" duration="1229000" />
+      <workItem from="1548061189302" duration="5248000" />
+      <workItem from="1548122506528" duration="4848000" />
+      <workItem from="1548127384123" duration="3713000" />
+      <workItem from="1548228881177" duration="2303000" />
+      <workItem from="1548234930090" duration="3000" />
+      <workItem from="1548381885597" duration="66000" />
+      <workItem from="1548397319998" duration="197000" />
+      <workItem from="1550634316755" duration="27000" />
+      <workItem from="1551250602654" duration="2537000" />
+      <workItem from="1583389380940" duration="8896000" />
+      <workItem from="1584198263033" duration="2043000" />
+      <workItem from="1588493246352" duration="1469000" />
+      <workItem from="1588777966094" duration="2571000" />
+      <workItem from="1606534001785" duration="113000" />
+      <workItem from="1606534152280" duration="16000" />
+      <workItem from="1606534221205" duration="367000" />
+      <workItem from="1612674155195" duration="249000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1541496141491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541496141491</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update test">
+      <created>1547459445229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547459445230</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update java lambda demo">
+      <created>1548068682476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548068682476</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update java lambda demo">
+      <created>1548127309585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548127309586</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add maven framework and add junit">
+      <created>1548127519071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548127519071</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update java8 maven plugin">
+      <created>1548127692893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548127692893</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add MicoInterview">
+      <created>1588781233033</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588781233033</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MicoInterview_test1 - 2020.05.06 at 23h 48m 10s.xml">
+      <configuration name="MicoInterview.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test1 - 2020.05.06 at 23h 50m 01s.xml">
+      <configuration name="MicoInterview.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test1 - 2020.05.06 at 23h 50m 20s.xml">
+      <configuration name="MicoInterview.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test2 - 2020.05.06 at 23h 53m 48s.xml">
+      <configuration name="MicoInterview.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test2 - 2020.05.06 at 23h 54m 02s.xml">
+      <configuration name="MicoInterview.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test3 - 2020.05.07 at 00h 00m 14s.xml">
+      <configuration name="MicoInterview.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test4 - 2020.05.07 at 00h 02m 14s.xml">
+      <configuration name="MicoInterview.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test4 - 2020.05.07 at 00h 02m 43s.xml">
+      <configuration name="MicoInterview.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test4 - 2020.05.07 at 00h 05m 19s.xml">
+      <configuration name="MicoInterview.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MicoInterview_test4 - 2020.05.07 at 00h 05m 31s.xml">
+      <configuration name="MicoInterview.test4" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="update test" />
+    <MESSAGE value="update java lambda demo" />
+    <MESSAGE value="add maven framework" />
+    <MESSAGE value="add maven framework and add junit" />
+    <MESSAGE value="update java8 maven plugin" />
+    <MESSAGE value="add MicoInterview" />
+    <option name="LAST_COMMIT_MESSAGE" value="add MicoInterview" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="178" key="#Plugins" timestamp="1606534111063">
+      <screen x="0" y="23" width="1792" height="1015" />
+    </state>
+    <state x="496" y="178" key="#Plugins/0.23.1792.1015@0.23.1792.1015" timestamp="1606534111063" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rsa/AESUtils.java</url>
+          <line>59</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rsa/AESUtils.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSAUtils.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSAUtils.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/Test.java</url>
+          <line>140</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/huobi/Test.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/string/SplitStringTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FromEndRF.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileUtils.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/FileUtils.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/androidres/ConvertiOS2Android.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>64</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>77</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>111</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>127</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>98</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>148</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>157</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/file/FileLogDemo.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>filter.accept(line)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>line</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rf.readLine()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>'\r'</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>'\n'</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buff</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buff.size</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bos.toString()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bbos.flush()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>thinkinjava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

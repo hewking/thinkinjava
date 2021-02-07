@@ -1,7 +1,7 @@
-package com.hewking.crypt.rsa;
+package com.hewking.utils.crypt.rsa;
 
 
-import com.hewking.crypt.StringUtils;
+import com.hewking.utils.crypt.StringUtils;
 
 import javax.crypto.Cipher;
 import java.io.ByteArrayOutputStream;

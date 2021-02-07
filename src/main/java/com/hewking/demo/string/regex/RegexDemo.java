@@ -1,4 +1,4 @@
-package com.hewking.string.regex;
+package com.hewking.demo.string.regex;
 
 public class RegexDemo {
     public static void main(String[] args) {

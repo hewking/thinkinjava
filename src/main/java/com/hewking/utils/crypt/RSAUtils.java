@@ -1,4 +1,4 @@
-package com.hewking.crypt;
+package com.hewking.utils.crypt;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;

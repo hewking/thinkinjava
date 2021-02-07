@@ -1,4 +1,4 @@
-package com.hewking.crypt.rsa;
+package com.hewking.utils.crypt.rsa;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;

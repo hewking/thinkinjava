@@ -1,8 +1,8 @@
-package com.hewking.crypt.rsa;
+package com.hewking.utils.crypt.rsa;
 
 
 import com.sun.org.apache.xml.internal.security.utils.Base64;
-import com.hewking.crypt.StringUtils;
+import com.hewking.utils.crypt.StringUtils;
 
 import java.io.*;
 

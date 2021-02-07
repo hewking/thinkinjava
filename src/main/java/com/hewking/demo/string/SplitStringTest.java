@@ -1,4 +1,4 @@
-package com.hewking.string;
+package com.hewking.demo.string;
 
 public class SplitStringTest {
 

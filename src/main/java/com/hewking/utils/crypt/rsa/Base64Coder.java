@@ -1,4 +1,4 @@
-package com.hewking.crypt.rsa;
+package com.hewking.utils.crypt.rsa;
 
 
 /**
@@ -46,7 +46,7 @@ package com.hewking.crypt.rsa;
 
 public class Base64Coder {
 
-    //The line separator com.hewking.string of the operating system.
+    //The line separator com.hewking.demo.string of the operating system.
     private static final String systemLineSeparator = System.getProperty("line.separator");
 
     //Mapping table from 6-bit nibbles to Base64 characters.
@@ -70,7 +70,7 @@ public class Base64Coder {
     }
 
     /**
-     * Encodes a com.hewking.string into Base64 format.
+     * Encodes a com.hewking.demo.string into Base64 format.
      * No blanks or line breaks are inserted.
      * @param s  A String to be encoded.
      * @return A String containing the Base64 encoded data.
@@ -169,7 +169,7 @@ public class Base64Coder {
     }
 
     /**
-     * Decodes a com.hewking.string from Base64 format.
+     * Decodes a com.hewking.demo.string from Base64 format.
      * No blanks or line breaks are allowed within the Base64 encoded input data.
      * @param s  A Base64 String to be decoded.
      * @return A String containing the decoded data.
@@ -234,7 +234,7 @@ public class Base64Coder {
      */
     public static byte[] decode(char[] in, int iOff, int iLen) {
         if (iLen % 4 != 0)
-            throw new IllegalArgumentException("Length of Base64 encoded input com.hewking.string is not a multiple of 4.");
+            throw new IllegalArgumentException("Length of Base64 encoded input com.hewking.demo.string is not a multiple of 4.");
         while (iLen > 0 && in[iOff + iLen - 1] == '=') iLen--;
         int oLen = (iLen * 3) / 4;
         byte[] out = new byte[oLen];
