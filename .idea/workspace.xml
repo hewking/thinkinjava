@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="add maven framework and add junit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hewking/demo/basic/NumberUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/NumberUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hewking/test/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/thinkinjava.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/thinkinjava.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/thinkinjava.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/thinkinjava.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +101,13 @@
       <recent name="E:\githutrepositiory\Repository\thinkinjava\src\effectjava" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MicoInterview.test4">
-    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hewking.demo.basic.EqualsTest" />
+  <component name="RunManager" selected="JUnit.NumberUtilTest.testRandom">
+    <configuration name="GetUTCTimeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hewking.huobi.GetUTCTimeUtil" />
       <module name="thinkinjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hewking.demo.basic.*" />
+          <option name="PATTERN" value="com.hewking.huobi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,18 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MicoInterview.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkinjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hewking.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hewking.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hewking.test.MicoInterview" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -174,20 +174,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberUtilTest.testRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.NumberUtilTest" />
+      <option name="METHOD_NAME" value="testRandom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.EqualsTest" />
-      <item itemvalue="JUnit.MicoInterview.test1" />
+      <item itemvalue="Application.GetUTCTimeUtil" />
       <item itemvalue="JUnit.MicoInterview.test2" />
       <item itemvalue="JUnit.MicoInterview.test3" />
       <item itemvalue="JUnit.MicoInterview.test4" />
+      <item itemvalue="JUnit.NumberUtilTest.testRandom" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberUtilTest.testRandom" />
+        <item itemvalue="Application.GetUTCTimeUtil" />
         <item itemvalue="JUnit.MicoInterview.test4" />
         <item itemvalue="JUnit.MicoInterview.test3" />
         <item itemvalue="JUnit.MicoInterview.test2" />
-        <item itemvalue="JUnit.MicoInterview.test1" />
-        <item itemvalue="Application.EqualsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -263,6 +279,9 @@
       <workItem from="1606534152280" duration="16000" />
       <workItem from="1606534221205" duration="367000" />
       <workItem from="1612674155195" duration="249000" />
+      <workItem from="1612674493084" duration="380000" />
+      <workItem from="1612674922622" duration="1266000" />
+      <workItem from="1612948571064" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1541496141491</created>
@@ -363,12 +382,6 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="496" y="178" key="#Plugins" timestamp="1606534111063">
-      <screen x="0" y="23" width="1792" height="1015" />
-    </state>
-    <state x="496" y="178" key="#Plugins/0.23.1792.1015@0.23.1792.1015" timestamp="1606534111063" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -382,42 +395,42 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/crypt/rsa/RSA.java</url>
           <line>98</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/crypt/rsa/RSA.java</url>
           <line>66</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/crypt/rsa/RSAUtils.java</url>
           <line>158</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/crypt/rsa/RSAUtils.java</url>
           <line>164</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/rsa/RSA.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/crypt/rsa/RSA.java</url>
           <line>87</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/crypt/RSAUtils.java</url>
           <line>134</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/crypt/RSAUtils.java</url>
           <line>104</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/crypt/RSAUtils.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/utils/crypt/RSAUtils.java</url>
           <line>83</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -432,7 +445,7 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/string/SplitStringTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/hewking/demo/string/SplitStringTest.java</url>
           <line>9</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
