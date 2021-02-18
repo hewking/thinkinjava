@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a45c8354-a8ce-4f01-9fd3-932b85a16d58" name="Default" comment="add maven framework and add junit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/concurrent/SyncThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/exception/CheckedExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/concurrent/ObservableSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/concurrent/SetObserver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hewking/test/concurrent/SyncThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hewking/test/concurrent/SyncThreadTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,7 @@
       <recent name="E:\githutrepositiory\Repository\thinkinjava\src\effectjava" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SyncThreadTest.test">
+  <component name="RunManager" selected="JUnit.SyncThreadTest.testObserver">
     <configuration name="GetUTCTimeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hewking.huobi.GetUTCTimeUtil" />
       <module name="thinkinjava" />
@@ -133,37 +134,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MicoInterview.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkinjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hewking.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hewking.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hewking.test.MicoInterview" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MicoInterview.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="thinkinjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hewking.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hewking.test" />
-      <option name="MAIN_CLASS_NAME" value="com.hewking.test.MicoInterview" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="/Users/jianhao/Projects/git_repo/others/thinkinjava" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="NumberUtilTest.testRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="thinkinjava" />
@@ -197,20 +185,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SyncThreadTest.testObserver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thinkinjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hewking.test.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hewking.test.concurrent" />
+      <option name="MAIN_CLASS_NAME" value="com.hewking.test.concurrent.SyncThreadTest" />
+      <option name="METHOD_NAME" value="testObserver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.GetUTCTimeUtil" />
-      <item itemvalue="JUnit.MicoInterview.test3" />
-      <item itemvalue="JUnit.MicoInterview.test4" />
       <item itemvalue="JUnit.NumberUtilTest.testRandom" />
       <item itemvalue="JUnit.SyncThreadTest.test" />
+      <item itemvalue="Gradle./Users/jianhao/Projects/git_repo/others/thinkinjava" />
+      <item itemvalue="JUnit.SyncThreadTest.testObserver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SyncThreadTest.testObserver" />
+        <item itemvalue="Gradle./Users/jianhao/Projects/git_repo/others/thinkinjava" />
         <item itemvalue="JUnit.SyncThreadTest.test" />
         <item itemvalue="JUnit.NumberUtilTest.testRandom" />
         <item itemvalue="Application.GetUTCTimeUtil" />
-        <item itemvalue="JUnit.MicoInterview.test4" />
-        <item itemvalue="JUnit.MicoInterview.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +293,7 @@
       <workItem from="1612674493084" duration="380000" />
       <workItem from="1612674922622" duration="1266000" />
       <workItem from="1612948571064" duration="2152000" />
-      <workItem from="1613545109785" duration="1161000" />
+      <workItem from="1613545109785" duration="5774000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/hewking/thinkinjava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1541496141491</created>
