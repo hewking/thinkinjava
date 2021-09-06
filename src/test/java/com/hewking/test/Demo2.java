@@ -10,7 +10,7 @@ public class Demo2 {
 
     @Test
     public void test() {
-        Singleton.getHolder();
+        Singleton.getInstance();
     }
 
 }
