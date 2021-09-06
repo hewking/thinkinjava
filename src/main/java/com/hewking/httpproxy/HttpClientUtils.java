@@ -312,7 +312,7 @@
 //        HttpResponse response = new HttpResponse(okHttpResponse.code());
 //        if (okHttpResponse.isSuccessful()) {
 //            try {
-//                response.setContent(okHttpResponse.body().com.hewking.string());
+//                response.setContent(okHttpResponse.body().com.hewking.demo.string());
 //            } catch (IOException e) {
 //                logger.error("parse response failed", e);
 //            }
@@ -593,7 +593,7 @@
 //    }
 //
 //    /**
-//     * 把Map转化为query com.hewking.string
+//     * 把Map转化为query com.hewking.demo.string
 //     *
 //     * @param parameters
 //     * @param charSet

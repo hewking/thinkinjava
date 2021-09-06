@@ -1,6 +1,6 @@
 package com.hewking.huobi;
 
-import com.hewking.crypt.rsa.Base64Utils;
+import com.hewking.utils.crypt.rsa.Base64Utils;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
